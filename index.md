@@ -19,11 +19,12 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Java client-server application](http://example.com/)
+- [Generic Document Handler](http://example.com/)
+- [XML,JSON,PDF](http://example.com/)
+- [JUnit testing](http://example.com/)
+- [Calculus - Integration by extrapolation of polynomials](http://example.com/)
+- [Algorithm design techniques](http://example.com/)
 
 ---
 
