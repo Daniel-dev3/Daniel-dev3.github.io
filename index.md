@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Java client-server application](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -16,14 +16,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 
-### Category Name 2
+### More projects
 
 - [Java client-server application](http://example.com/)
 - [Generic Document Handler](http://example.com/)
 - [XML,JSON,PDF data parser](http://example.com/)
 - [JUnit testing](http://example.com/)
 - [Calculus - Integration by extrapolation of polynomials](http://example.com/)
-- [Algorithm design techniques](http://example.com/)
+- [Algorithm design techniques implementation](http://example.com/)
 
 ---
 
